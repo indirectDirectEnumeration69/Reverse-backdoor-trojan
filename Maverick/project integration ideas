@@ -1,0 +1,12 @@
+Maybe i will introduce the hash project for better encryption and less readability ?
+
+integrate into botnet project once botnet and client has been refactored , make shellcode act as a reverse backdoor instead of direct comms with server.
+
+or have both reverse shell functionality within the server set up for the client malware acting as a structured botnet for each client having there own server to communicate to acting as a local command server for local user network devices through router infection? , acting as a detachment of the botnet army - set region for each local network command center - have region organisation .
+
+--each command centre talks to the main botnet through relays .
+
+--introduce public and priv keys through hash algorithm for secure communication using my own has algorithm.
+-hmm ....
+
+--need diagram and function diagram for each call purpose .
